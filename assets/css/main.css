@@ -980,10 +980,12 @@ input, select, textarea {
 
 		#header h1 {
 			font-size: 2.5em;
+			font-style: italic;
 		}
 
 		#header p {
 			font-size: 1em;
+			font-style: italic;
 		}
 
 		#header nav {

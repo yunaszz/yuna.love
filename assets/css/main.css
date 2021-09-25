@@ -688,8 +688,6 @@ input, select, textarea {
 
 				#header nav a:hover {
 					font-size: 1.1em;
-					background-color: #000;
-					color: #fff;
 				}
 
 					#header nav a:hover:before {

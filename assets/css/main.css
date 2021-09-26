@@ -227,6 +227,7 @@ input, select, textarea {
 		opacity: 1;
 		position: fixed;
 		top: 0;
+		background-size: cover;
 	}
 
 	@-moz-keyframes bg {

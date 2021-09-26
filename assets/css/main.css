@@ -689,7 +689,7 @@ input, select, textarea {
 					position: relative;
 					text-align: center;
 					top: 0;
-					width: 2.5em;
+					width: 0.5em;
 				}
 
 				#header nav a:hover {

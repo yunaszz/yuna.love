@@ -699,7 +699,7 @@ input, select, textarea {
 				}
 
 				#header nav a:hover {
-					font-size: 1.1em;
+					font-size: 0.8em;
 				}
 
 					#header nav a:hover:before {
@@ -708,7 +708,7 @@ input, select, textarea {
 					}
 
 				#header nav a:active {
-					font-size: 0.95em;
+					font-size: 0.5em;
 					background: none;
 				}
 

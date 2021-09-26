@@ -1085,3 +1085,8 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
+#header .socials {
+	font-size: 30px;
+	padding: 20px;
+}
